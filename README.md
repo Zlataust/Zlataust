@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zlataust
+- 👋 Hi, I’m @Olga (Zlataust)
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on production of robots
